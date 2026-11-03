@@ -37,7 +37,7 @@ const CONFIG = {
 
   wedding: {
     date: "2026-11-21",
-    time: "11:00~14:00",
+    time: "11:00",
     venue: "거진읍 행정복지센터",
     hall: "지하식당",
     address: "강원도 고성군 거진읍 자산천로 240",
