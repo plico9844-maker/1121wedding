@@ -36,15 +36,15 @@ const CONFIG = {
   },
 
   wedding: {
-    date: "2026-12-05",
-    time: "11:00",
-    venue: "SW 컨벤션센터",
-    hall: "11F 단독홀",
-    address: "서울 종로구 지봉로 19 : 시즌빌딩 11F",
-    tel: "02-3673-5000",
+    date: "2026-11-21",
+    time: "11:00~14:00",
+    venue: "거진읍 행정복지센터",
+    hall: "지하식당",
+    address: "강원도 고성군 거진읍 자산천로 240",
+    tel: "033-680-1001",
     mapLinks: {
-      kakao: "https://kko.to/FKKFOOZI73",
-      naver: "https://naver.me/GzE9CXtD"
+      kakao: "https://kko.to/8yUGEFG40H",
+      naver: "https://naver.me/FdoYOo7X"
     }
   },
 
@@ -80,6 +80,6 @@ const CONFIG = {
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
     title: "김정환 ♥ 정민지 결혼합니다",
-    description: "2026년 12월 5일 토요일 오전 11시, 소중한 분들을 초대합니다."
+    description: "2026년 11월 21일 토요일 오전 11시."
   }
 };
